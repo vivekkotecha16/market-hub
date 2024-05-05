@@ -14,7 +14,10 @@
 ![Screenshot from 2024-05-03 00-45-23](https://github.com/vivekkotecha16/market-hub/assets/167018102/0fbc82c2-2ab3-4ad1-a947-aa955fd8c159)
 
 ### Edit-Profile page
-![Screenshot from 2024-05-03 00-45-31](https://github.com/vivekkotecha16/market-hub/assets/167018102/377e6cbf-5762-47e6-8815-74344bd586ed)
+![Screenshot from 2024-05-05 19-37-33](https://github.com/vivekkotecha16/market-hub/assets/167018102/861f93af-d4a6-41d9-b22c-4613f42b3595)
+
 
 ### Change-Password Page
-![Screenshot from 2024-05-03 00-45-40](https://github.com/vivekkotecha16/market-hub/assets/167018102/c58b2d94-29f6-4013-8c67-88fca72369ec)
+
+![Screenshot from 2024-05-05 19-35-13](https://github.com/vivekkotecha16/market-hub/assets/167018102/463010c1-622f-49f9-be0f-22eebefce991)
+
